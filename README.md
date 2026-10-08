@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # HR Analytics: Employee Attrition Analysis
 
 ## Project Overview
