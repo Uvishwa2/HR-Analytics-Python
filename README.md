@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HR Analytics: Employee Attrition Analysis
 
 ## Project Overview
@@ -58,3 +59,7 @@ The project generates these charts:
 The analysis identifies differences in employee attrition across overtime status, job satisfaction, age groups, departments, and job roles. These findings can help guide further investigation into employee retention.
 
 *Note: The findings describe patterns in this dataset and do not establish that any single factor causes employee attrition.*
+
+# HR-Analytics-Python
+Employee attrition analysis using Python, Pandas, and Matplotlib
+
